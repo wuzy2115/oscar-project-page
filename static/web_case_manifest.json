@@ -1,0 +1,316 @@
+{
+  "section_1_teaser": [
+    {
+      "case_id": "robot__agibot__787_924471_a11_1290_1561__head",
+      "dataset": "agibot",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/agibot/787_924471_a11_1290_1561_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__airoa_moma__ep_004153__head",
+      "dataset": "airoa_moma",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/airoa_moma/ep_004153_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__droid__REAL__success__2023-06-23__Fri_Jun_23_16:44:47_2023__20540549",
+      "dataset": "droid",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/droid/REAL__success__2023-06-23__Fri_Jun_23_16:44:47_2023_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__interndata__ep158__head",
+      "dataset": "interndata",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/interndata/ep158_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__rh20t_cfg5__task_0123_user_0010_scene_0009_cfg_0005__036422060215",
+      "dataset": "rh20t_cfg5",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg5/task_0123_user_0010_scene_0009_cfg_0005_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__rh20t_cfg7__task_0002_user_0014_scene_0002_cfg_0007__104122060811",
+      "dataset": "rh20t_cfg7",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg7/task_0002_user_0014_scene_0002_cfg_0007_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "human__egodex__20348__head",
+      "dataset": "egodex",
+      "embodiment": "human",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_human_samples/human_mano/egodex/20348_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "human__vitra_epic__epic_kitchens_P01_05_ep_000166__head",
+      "dataset": "vitra_epic",
+      "embodiment": "human",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_human_samples/human_mano/vitra_epic/epic_kitchens_P01_05_ep_000166_comparison.mp4"
+      }
+    }
+  ],
+  "section_4_our_results": [
+    {
+      "case_id": "robot__agibot__510_742694_a3_1262_1372__head",
+      "dataset": "agibot",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/agibot/510_742694_a3_1262_1372_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__agibot__528_905063_a2_445_591__head",
+      "dataset": "agibot",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/agibot/528_905063_a2_445_591_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__agibot__520_776554_a0_0_262__head",
+      "dataset": "agibot",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/agibot/520_776554_a0_0_262_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__agibot__677_902076_a1_159_346__head",
+      "dataset": "agibot",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/agibot/677_902076_a1_159_346_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__airoa_moma__ep_008274__head",
+      "dataset": "airoa_moma",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/airoa_moma/ep_008274_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__airoa_moma__ep_004153__head",
+      "dataset": "airoa_moma",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/airoa_moma/ep_004153_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__airoa_moma__ep_022054__head",
+      "dataset": "airoa_moma",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/airoa_moma/ep_022054_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__droid__REAL__success__2023-06-23__Fri_Jun_23_16:44:47_2023__20540549",
+      "dataset": "droid",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/droid/REAL__success__2023-06-23__Fri_Jun_23_16:44:47_2023_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__droid__PennPAL__success__2023-07-19__Wed_Jul_19_17:33:23_2023__25455306",
+      "dataset": "droid",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/droid/PennPAL__success__2023-07-19__Wed_Jul_19_17:33:23_2023_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__droid__IPRL__success__2023-11-01__Wed_Nov__1_23:09:04_2023__27432424",
+      "dataset": "droid",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/droid/IPRL__success__2023-11-01__Wed_Nov__1_23:09:04_2023_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__droid__TRI__success__2023-10-24__Tue_Oct_24_13:56:44_2023__28451778",
+      "dataset": "droid",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/droid/TRI__success__2023-10-24__Tue_Oct_24_13:56:44_2023_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__interndata__ep158__head",
+      "dataset": "interndata",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/interndata/ep158_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__rh20t_cfg5__task_0123_user_0010_scene_0009_cfg_0005__036422060215",
+      "dataset": "rh20t_cfg5",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg5/task_0123_user_0010_scene_0009_cfg_0005_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__rh20t_cfg5__task_0064_user_0007_scene_0003_cfg_0005__036422060215",
+      "dataset": "rh20t_cfg5",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg5/task_0064_user_0007_scene_0003_cfg_0005_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__rh20t_cfg5__task_0011_user_0007_scene_0002_cfg_0005__037522062165",
+      "dataset": "rh20t_cfg5",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg5/task_0011_user_0007_scene_0002_cfg_0005_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__rh20t_cfg7__task_0002_user_0014_scene_0002_cfg_0007__104122060811",
+      "dataset": "rh20t_cfg7",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg7/task_0002_user_0014_scene_0002_cfg_0007_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__rh20t_cfg7__task_0042_user_0020_scene_0001_cfg_0007__037522061512",
+      "dataset": "rh20t_cfg7",
+      "embodiment": "robot",
+      "methods": {
+        "comparison": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg7/task_0042_user_0020_scene_0001_cfg_0007_comparison.mp4"
+      }
+    }
+  ],
+  "section_6_baselines": [
+    {
+      "case_id": "robot__agibot__787_924471_a11_1290_1561__head",
+      "dataset": "agibot",
+      "embodiment": "robot",
+      "methods": {
+        "skeleton": "/nfs/turbo/coe-jungaocv-turbo2/wzy/neurips26_backup/eval_results/v2_70f_16k_gripper_centered/robot/agibot/787_924471_a11_1290_1561_comparison.mp4",
+        "gt": "/nfs/turbo/coe-jungaocv-turbo2/wzy/neurips26_backup/eval_results/v2_70f_16k_gripper_centered/robot/agibot/787_924471_a11_1290_1561_comparison.mp4",
+        "ours": "/nfs/turbo/coe-jungaocv-turbo2/wzy/neurips26_backup/eval_results/v2_70f_16k_gripper_centered/robot/agibot/787_924471_a11_1290_1561_comparison.mp4",
+        "tesseract": "/nfs/turbo/coe-jungaocv-turbo2/wzy/neurips26_backup/eval_results/tessaract_gripper_centered/robot/agibot/787_924471_a11_1290_1561/gen.mp4",
+        "kinema4d": "/nfs/turbo/coe-jungaocv-turbo2/wzy/tmp/k4d_stage_full/inference_out/robot__agibot__787_924471_a11_1290_1561__head.mp4",
+        "cosmos_i2w_base": "/nfs/turbo/coe-jungaocv-turbo2/wzy/neurips26_backup/eval_results/cosmos_predict2_v4_103_gripper_centered/base_outputs/137_chunk.mp4",
+        "genie_envisioner": "/nfs/turbo/coe-jungaocv-turbo2/wzy/neurips26_backup/eval_results/ge_sim_gripper_centered/robot/agibot/787_924471_a11_1290_1561/gen.mp4",
+        "enerverse_ac": "/nfs/turbo/coe-jungaocv-turbo2/wzy/neurips26_backup/eval_results/enerverse_ac_gripper_centered/robot/agibot/787_924471_a11_1290_1561/gen.mp4"
+      }
+    },
+    {
+      "case_id": "robot__airoa_moma__ep_004153__head",
+      "dataset": "airoa_moma",
+      "embodiment": "robot",
+      "methods": {
+        "skeleton": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/airoa_moma/ep_004153_comparison.mp4",
+        "gt": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/airoa_moma/ep_004153_comparison.mp4",
+        "ours": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/airoa_moma/ep_004153_comparison.mp4",
+        "tesseract": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/tessaract_gripper_centered/robot/airoa_moma/ep_004153/gen.mp4",
+        "kinema4d": "/nfs/turbo/coe-jungaocv-turbo2/wzy/tmp/k4d_stage_full/inference_out/robot__airoa_moma__ep_004153__head.mp4",
+        "cosmos_i2w_base": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/cosmos_predict2_v4_103_gripper_centered/base_outputs/188_chunk.mp4",
+        "genie_envisioner": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/ge_sim_gripper_centered/robot/airoa_moma/ep_004153/gen.mp4",
+        "enerverse_ac": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/enerverse_ac_gripper_centered/robot/airoa_moma/ep_004153/gen.mp4"
+      }
+    },
+    {
+      "case_id": "robot__droid__REAL__success__2023-06-23__Fri_Jun_23_16:44:47_2023__20540549",
+      "dataset": "droid",
+      "embodiment": "robot",
+      "methods": {
+        "skeleton": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/droid/REAL__success__2023-06-23__Fri_Jun_23_16:44:47_2023_comparison.mp4",
+        "gt": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/droid/REAL__success__2023-06-23__Fri_Jun_23_16:44:47_2023_comparison.mp4",
+        "ours": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/droid/REAL__success__2023-06-23__Fri_Jun_23_16:44:47_2023_comparison.mp4",
+        "tesseract": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/tessaract_gripper_centered/robot/droid/REAL__success__2023-06-23__Fri_Jun_23_16:44:47_2023/gen.mp4",
+        "kinema4d": "/nfs/turbo/coe-jungaocv-turbo2/wzy/tmp/k4d_stage_full/inference_out/robot__droid__REAL__success__2023-06-23__Fri_Jun_23_16:44:47_2023__20540549.mp4",
+        "cosmos_i2w_base": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/cosmos_predict2_v4_103_gripper_centered/base_outputs/17_chunk.mp4",
+        "genie_envisioner": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/ge_sim_gripper_centered/robot/droid/REAL__success__2023-06-23__Fri_Jun_23_16:44:47_2023/gen.mp4",
+        "enerverse_ac": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/enerverse_ac_gripper_centered/robot/droid/REAL__success__2023-06-23__Fri_Jun_23_16:44:47_2023/gen.mp4"
+      }
+    },
+    {
+      "case_id": "robot__rh20t_cfg5__task_0123_user_0010_scene_0009_cfg_0005__036422060215",
+      "dataset": "rh20t_cfg5",
+      "embodiment": "robot",
+      "methods": {
+        "skeleton": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg5/task_0123_user_0010_scene_0009_cfg_0005_comparison.mp4",
+        "gt": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg5/task_0123_user_0010_scene_0009_cfg_0005_comparison.mp4",
+        "ours": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg5/task_0123_user_0010_scene_0009_cfg_0005_comparison.mp4",
+        "tesseract": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/tessaract_gripper_centered/robot/rh20t_cfg5/task_0123_user_0010_scene_0009_cfg_0005/gen.mp4",
+        "kinema4d": "/nfs/turbo/coe-jungaocv-turbo2/wzy/tmp/k4d_stage_full/inference_out/robot__rh20t_cfg5__task_0123_user_0010_scene_0009_cfg_0005__036422060215.mp4",
+        "cosmos_i2w_base": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/cosmos_predict2_v4_103_gripper_centered/base_outputs/70_chunk.mp4",
+        "genie_envisioner": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/ge_sim_gripper_centered/robot/rh20t_cfg5/task_0123_user_0010_scene_0009_cfg_0005/gen.mp4",
+        "enerverse_ac": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/enerverse_ac_gripper_centered/robot/rh20t_cfg5/task_0123_user_0010_scene_0009_cfg_0005/gen.mp4"
+      }
+    },
+    {
+      "case_id": "robot__rh20t_cfg7__task_0002_user_0014_scene_0002_cfg_0007__104122060811",
+      "dataset": "rh20t_cfg7",
+      "embodiment": "robot",
+      "methods": {
+        "skeleton": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg7/task_0002_user_0014_scene_0002_cfg_0007_comparison.mp4",
+        "gt": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg7/task_0002_user_0014_scene_0002_cfg_0007_comparison.mp4",
+        "ours": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg7/task_0002_user_0014_scene_0002_cfg_0007_comparison.mp4",
+        "tesseract": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/tessaract_gripper_centered/robot/rh20t_cfg7/task_0002_user_0014_scene_0002_cfg_0007/gen.mp4",
+        "kinema4d": "/nfs/turbo/coe-jungaocv-turbo2/wzy/tmp/k4d_stage_full/inference_out/robot__rh20t_cfg7__task_0002_user_0014_scene_0002_cfg_0007__104122060811.mp4",
+        "cosmos_i2w_base": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/cosmos_predict2_v4_103_gripper_centered/base_outputs/86_chunk.mp4",
+        "genie_envisioner": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/ge_sim_gripper_centered/robot/rh20t_cfg7/task_0002_user_0014_scene_0002_cfg_0007/gen.mp4",
+        "enerverse_ac": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/enerverse_ac_gripper_centered/robot/rh20t_cfg7/task_0002_user_0014_scene_0002_cfg_0007/gen.mp4"
+      }
+    }
+  ],
+  "section_7_1_cond": [
+    {
+      "case_id": "robot__rh20t_cfg5__task_0007_user_0010_scene_0001_cfg_0005__036422060215",
+      "delta": 11.348,
+      "methods": {
+        "gt": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg5/task_0007_user_0010_scene_0001_cfg_0005_comparison.mp4",
+        "skeleton": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg5/task_0007_user_0010_scene_0001_cfg_0005_comparison.mp4",
+        "ee": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/ee_cond_15k_gripper_centered/robot/rh20t_cfg5/task_0007_user_0010_scene_0001_cfg_0005_comparison.mp4",
+        "mesh": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/mesh_15k_gripper_centered_v4_201/robot/rh20t_cfg5/task_0007_user_0010_scene_0001_cfg_0005_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__rh20t_cfg5__task_0079_user_0007_scene_0001_cfg_0005__036422060215",
+      "delta": 8.168,
+      "methods": {
+        "gt": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg5/task_0079_user_0007_scene_0001_cfg_0005_comparison.mp4",
+        "skeleton": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg5/task_0079_user_0007_scene_0001_cfg_0005_comparison.mp4",
+        "ee": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/ee_cond_15k_gripper_centered/robot/rh20t_cfg5/task_0079_user_0007_scene_0001_cfg_0005_comparison.mp4",
+        "mesh": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/mesh_15k_gripper_centered_v4_201/robot/rh20t_cfg5/task_0079_user_0007_scene_0001_cfg_0005_comparison.mp4"
+      }
+    },
+    {
+      "case_id": "robot__rh20t_cfg5__task_0122_user_0010_scene_0004_cfg_0005__036422060215",
+      "delta": 7.867,
+      "methods": {
+        "gt": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg5/task_0122_user_0010_scene_0004_cfg_0005_comparison.mp4",
+        "skeleton": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/v2_70f_16k_gripper_centered/robot/rh20t_cfg5/task_0122_user_0010_scene_0004_cfg_0005_comparison.mp4",
+        "ee": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/ee_cond_15k_gripper_centered/robot/rh20t_cfg5/task_0122_user_0010_scene_0004_cfg_0005_comparison.mp4",
+        "mesh": "/nfs/turbo/coe-jungaocv-turbo2/wzy/logs/eval_results/mesh_15k_gripper_centered_v4_201/robot/rh20t_cfg5/task_0122_user_0010_scene_0004_cfg_0005_comparison.mp4"
+      }
+    }
+  ],
+  "section_7_2_human": []
+}

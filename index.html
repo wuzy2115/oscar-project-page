@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OSCAR — Omni-Embodiment Action-Conditioned World Model for Robotics</title>
+  <meta name="description" content="OSCAR is an omni-embodiment action-conditioned world model for robotics. We finetune Cosmos-Predict2.5-2B with unified 2D kinematic skeleton conditioning across four robot embodiments and a MANO hand, jointly training on curated robot teleoperation and egocentric human video.">
+
+  <link rel="icon" type="image/svg+xml" href="static/favicon.svg">
+
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://wuzy2115.github.io/oscar-project-page/">
+  <meta property="og:title" content="OSCAR — Omni-Embodiment Action-Conditioned World Model for Robotics">
+  <meta property="og:description" content="A 2B-parameter action-conditioned world model with unified 2D skeleton conditioning across robot embodiments and MANO hands. Finetuned from Cosmos-Predict2.5 on a single GH200 GPU.">
+  <meta property="og:image" content="https://wuzy2115.github.io/oscar-project-page/static/images/worldsim_method_v2.png">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="OSCAR — Omni-Embodiment Action-Conditioned World Model for Robotics">
+  <meta name="twitter:description" content="A 2B-parameter action-conditioned world model with unified 2D skeleton conditioning across robot embodiments and MANO hands.">
+  <meta name="twitter:image" content="https://wuzy2115.github.io/oscar-project-page/static/images/worldsim_method_v2.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,700;6..72,800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+  <header class="page-header">
+    <h1 class="title">
+      <span class="title-name">OSCAR</span><span class="title-colon">:</span>
+      <span class="title-expand">
+        Omni-Embodiment Action-Conditioned World Model for Robotics
+      </span>
+    </h1>
+    <div class="hero-authors">
+      <div class="author-row">
+        <span class="author-name">Zhuoyuan Wu<sup>1</sup></span>
+        <span class="author-name">Jun Gao<sup>2,3</sup></span>
+      </div>
+      <div class="author-affil">
+        <sup>1</sup>Peking University
+        &nbsp;&middot;&nbsp;
+        <sup>2</sup>University of Michigan
+        &nbsp;&middot;&nbsp;
+        <sup>3</sup>NVIDIA
+      </div>
+    </div>
+    <nav class="link-row">
+      <a class="btn" href="https://arxiv.org/abs/2606.04463" target="_blank" rel="noopener">
+        <img class="btn-logo" src="static/images/icons/arxiv.svg" alt="">Paper
+      </a>
+      <a class="btn" href="https://github.com/wuzy2115/oscar-public" target="_blank" rel="noopener">
+        <img class="btn-logo" src="static/images/icons/github.svg" alt="">Code
+      </a>
+      <a class="btn" href="https://huggingface.co/zywu2115/OSCAR-2B" target="_blank" rel="noopener">
+        <img class="btn-logo" src="static/images/icons/huggingface.svg" alt="">Model
+      </a>
+      <a class="btn" href="#data" rel="noopener">
+        <img class="btn-logo" src="static/images/icons/huggingface.svg" alt="">Data
+      </a>
+    </nav>
+  </header>
+
+  <nav class="toc-nav" aria-label="Sections">
+    <div class="toc-inner">
+      <a href="#abstract">Abstract</a>
+      <a href="#policy-eval">Policy Eval</a>
+      <a href="#data">Data</a>
+      <a href="#method">Method</a>
+      <a href="#results">Results</a>
+      <a href="#baselines">Baselines</a>
+      <a href="#ablations">Ablations</a>
+      <a href="#bibtex">BibTeX</a>
+    </div>
+  </nav>
+
+  <section id="teaser" class="section section--no-heading"><div id="teaser-root"></div></section>
+  <section id="abstract"  class="section"><h2>Abstract</h2>    <div id="abstract-root"></div></section>
+  <section id="policy-eval" class="section"><h2>Policy Evaluation</h2><div id="policy-eval-root"></div></section>
+  <section id="data"      class="section"><h2>Data Processing Pipeline</h2><div id="data-root"></div></section>
+  <section id="method"    class="section"><h2>Method</h2>      <div id="method-root"></div></section>
+  <section id="results"   class="section"><h2>Our Results</h2> <div id="results-root"></div></section>
+  <section id="baselines" class="section"><h2>Comparison with Baselines</h2><div id="baselines-root"></div></section>
+  <section id="ablations" class="section"><h2>Ablations</h2>   <div id="ablations-root"></div></section>
+  <section id="bibtex"    class="section"><h2>BibTeX</h2>
+    <pre id="bibtex-content">@misc{oscar2026,
+  title         = {OSCAR: Omni-Embodiment Action-Conditioned World Model for Robotics},
+  author        = {Wu, Zhuoyuan and Gao, Jun},
+  year          = {2026},
+  eprint        = {2606.04463},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.RO},
+  url           = {https://arxiv.org/abs/2606.04463}
+}</pre>
+    <button id="copy-bibtex" class="btn btn-ghost">Copy BibTeX</button>
+  </section>
+
+  <footer class="page-footer">
+    <p class="footer-meta">
+      Project page for <strong>OSCAR</strong> &middot;
+      Last updated <time datetime="2026-05-12">May&nbsp;12, 2026</time>
+    </p>
+    <p class="footer-meta footer-sub">
+      Built with vanilla HTML / CSS / ES modules.
+    </p>
+  </footer>
+
+  <script type="module" src="static/js/main.js"></script>
+</body>
+</html>

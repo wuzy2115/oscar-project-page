@@ -1,0 +1,165 @@
+{
+  "seed": "oscar-data-section-v1",
+  "datasets": [
+    {
+      "id": "agibot",
+      "label": "AgiBot",
+      "embodiment": "AgiBot G1 humanoid",
+      "hours": "181 h",
+      "clips": [
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/agibot/508_771276_a6_735_874/head/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/agibot/527_793103_a17_1684_1830/head/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/agibot/507_730260_a2_244_356/head/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/agibot/575_807808_a0_20_71/head/rgb.mp4"
+        }
+      ]
+    },
+    {
+      "id": "airoa_moma",
+      "label": "AIROA-MoMa",
+      "embodiment": "Toyota HSR",
+      "hours": "16 h",
+      "clips": [
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/airoa_moma/airoa/ep_020075/head/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/airoa_moma/airoa/ep_013961/head/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/airoa_moma/airoa/ep_000840/head/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/airoa_moma/airoa/ep_021945/head/rgb.mp4"
+        }
+      ]
+    },
+    {
+      "id": "droid",
+      "label": "DROID",
+      "embodiment": "Franka + Robotiq",
+      "hours": "157 h",
+      "clips": [
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/droid/droid/AUTOLab__success__2023-09-02__Sat_Sep__2_10:38:04_2023/22008760/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/droid/droid/AUTOLab__failure__2023-07-26__Wed_Jul_26_16:28:02_2023/24400334/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/droid/droid/ILIAD__success__2023-12-24__Sun_Dec_24_17:05:11_2023/23897859/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/droid/droid/AUTOLab__success__2023-11-17__Fri_Nov_17_22:39:05_2023/24400334/rgb.mp4"
+        }
+      ]
+    },
+    {
+      "id": "interndata",
+      "label": "InternData-A1",
+      "embodiment": "Franka (synthetic)",
+      "hours": "12 h",
+      "clips": [
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/interndata/basic_tasks/pick_the_object_into_trashcan/ep554/head/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/interndata/articulation_tasks/close_the_electriccooker/ep462/head/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/interndata/long_horizon_tasks/put_the_trashcan_in_trashcan_long/ep53/head/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/interndata/long_horizon_tasks/put_the_trashcan_in_trashcan_long/ep68/head/rgb.mp4"
+        }
+      ]
+    },
+    {
+      "id": "rh20t_cfg5",
+      "label": "RH20T (cfg5)",
+      "embodiment": "Franka Panda",
+      "hours": "15 h",
+      "clips": [
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/rh20t_cfg5/rh20t_cfg5/task_0043_user_0007_scene_0010_cfg_0005/104122063678/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/rh20t_cfg5/rh20t_cfg5/task_0057_user_0007_scene_0004_cfg_0005/104122061850/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/rh20t_cfg5/rh20t_cfg5/task_0119_user_0007_scene_0007_cfg_0005/104422070044/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/rh20t_cfg5/rh20t_cfg5/task_0222_user_0010_scene_0007_cfg_0005/104122061850/rgb.mp4"
+        }
+      ]
+    },
+    {
+      "id": "rh20t_cfg7",
+      "label": "RH20T (cfg7)",
+      "embodiment": "KUKA iiwa",
+      "hours": "merged with cfg5",
+      "clips": [
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/rh20t_cfg7/rh20t_cfg7/task_0045_user_0020_scene_0001_cfg_0007/104122060811/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/rh20t_cfg7/rh20t_cfg7/task_0053_user_0014_scene_0006_cfg_0007/104122060811/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/rh20t_cfg7/rh20t_cfg7/task_0015_user_0020_scene_0006_cfg_0007/104122064161/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_fix/rh20t_cfg7/rh20t_cfg7/task_0052_user_0020_scene_0006_cfg_0007/104122060811/rgb.mp4"
+        }
+      ]
+    },
+    {
+      "id": "egodex",
+      "label": "EgoDex",
+      "embodiment": "MANO hand",
+      "hours": "256 h",
+      "clips": [
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_human/egodex/egodex/part2/assemble_disassemble_furniture_bench_lamp/1245/ego/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_human/egodex/egodex/part2/fold_stack_unstack_unfold_cloths/1287/ego/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_human/egodex/egodex/part1/assemble_disassemble_legos/3542/ego/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_human/egodex/egodex/part2/assemble_disassemble_furniture_bench_lamp/1747/ego/rgb.mp4"
+        }
+      ]
+    },
+    {
+      "id": "vitra_epic",
+      "label": "EPIC-Kitchens",
+      "embodiment": "MANO hand",
+      "hours": "6 h",
+      "clips": [
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_human/vitra_epic/epic_kitchens_P18_03_ep_000271/ego/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_human/vitra_epic/epic_kitchens_P28_109_ep_000008/ego/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_human/vitra_epic/epic_kitchens_P35_104_ep_001402/ego/rgb.mp4"
+        },
+        {
+          "src": "/nfs/turbo/coe-jungaocv-turbo2/wzy/datasets/pipeline_output_human/vitra_epic/epic_kitchens_P12_101_ep_000404/ego/rgb.mp4"
+        }
+      ]
+    }
+  ]
+}

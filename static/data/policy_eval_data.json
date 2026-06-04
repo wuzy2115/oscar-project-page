@@ -1,0 +1,80 @@
+{
+  "quant": {
+    "chart": "static/images/policy_eval_sr.png",
+    "caption": "Per-policy success rate: real-robot RoboArena deployment vs OSCAR rollouts judged by GPT-5, across seven DROID policies (skeleton conditioning)."
+  },
+  "cases": [
+    {
+      "case_id": "81a85b7c-3fa8-4476-b464-597b9229ea8b__pi0_fast_droid",
+      "policy_label": "π₀-FAST",
+      "instruction": "Put the food on the plate.",
+      "real_binary": 1,
+      "wm_binary": 1,
+      "videos": {
+        "skel_gt": "static/videos/policy_eval/81a85b7c-3fa8-4476-b464-597b9229ea8b__pi0_fast_droid__skel_gt.mp4",
+        "ee": "static/videos/policy_eval/81a85b7c-3fa8-4476-b464-597b9229ea8b__pi0_fast_droid__ee.mp4",
+        "mesh": "static/videos/policy_eval/81a85b7c-3fa8-4476-b464-597b9229ea8b__pi0_fast_droid__mesh.mp4"
+      }
+    },
+    {
+      "case_id": "e8dc673d-c7b1-415a-94e3-2b238588caed__pi0_fast_droid",
+      "policy_label": "π₀-FAST",
+      "instruction": "place pineapple into bowl",
+      "real_binary": 1,
+      "wm_binary": 1,
+      "videos": {
+        "skel_gt": "static/videos/policy_eval/e8dc673d-c7b1-415a-94e3-2b238588caed__pi0_fast_droid__skel_gt.mp4",
+        "ee": "static/videos/policy_eval/e8dc673d-c7b1-415a-94e3-2b238588caed__pi0_fast_droid__ee.mp4",
+        "mesh": "static/videos/policy_eval/e8dc673d-c7b1-415a-94e3-2b238588caed__pi0_fast_droid__mesh.mp4"
+      }
+    },
+    {
+      "case_id": "3ce0e6ff-f0e9-4a16-991f-c85f4defc92b__pi0_droid",
+      "policy_label": "π₀-flow",
+      "instruction": "Fold up the newspaper",
+      "real_binary": 0,
+      "wm_binary": 0,
+      "videos": {
+        "skel_gt": "static/videos/policy_eval/3ce0e6ff-f0e9-4a16-991f-c85f4defc92b__pi0_droid__skel_gt.mp4",
+        "ee": "static/videos/policy_eval/3ce0e6ff-f0e9-4a16-991f-c85f4defc92b__pi0_droid__ee.mp4",
+        "mesh": "static/videos/policy_eval/3ce0e6ff-f0e9-4a16-991f-c85f4defc92b__pi0_droid__mesh.mp4"
+      }
+    },
+    {
+      "case_id": "4ba7c1e8-39f4-4e74-8eb4-c5580711f90e__paligemma_fast_droid",
+      "policy_label": "PG-FAST",
+      "instruction": "Move the bread to the plate.",
+      "real_binary": 0,
+      "wm_binary": 0,
+      "videos": {
+        "skel_gt": "static/videos/policy_eval/4ba7c1e8-39f4-4e74-8eb4-c5580711f90e__paligemma_fast_droid__skel_gt.mp4",
+        "ee": "static/videos/policy_eval/4ba7c1e8-39f4-4e74-8eb4-c5580711f90e__paligemma_fast_droid__ee.mp4",
+        "mesh": "static/videos/policy_eval/4ba7c1e8-39f4-4e74-8eb4-c5580711f90e__paligemma_fast_droid__mesh.mp4"
+      }
+    },
+    {
+      "case_id": "66c43fa7-1902-4f3a-9a34-83147d14b1a8__paligemma_vq_droid",
+      "policy_label": "PG-FSQ",
+      "instruction": "Place the grey tray on the blue cabinet.",
+      "real_binary": 0,
+      "wm_binary": 0,
+      "videos": {
+        "skel_gt": "static/videos/policy_eval/66c43fa7-1902-4f3a-9a34-83147d14b1a8__paligemma_vq_droid__skel_gt.mp4",
+        "ee": "static/videos/policy_eval/66c43fa7-1902-4f3a-9a34-83147d14b1a8__paligemma_vq_droid__ee.mp4",
+        "mesh": "static/videos/policy_eval/66c43fa7-1902-4f3a-9a34-83147d14b1a8__paligemma_vq_droid__mesh.mp4"
+      }
+    },
+    {
+      "case_id": "6f4b9736-58ec-4adf-b2ac-40c2bab03e28__paligemma_diffusion_droid",
+      "policy_label": "PG-flow",
+      "instruction": "Stab the bread with the chopstick.",
+      "real_binary": 0,
+      "wm_binary": 0,
+      "videos": {
+        "skel_gt": "static/videos/policy_eval/6f4b9736-58ec-4adf-b2ac-40c2bab03e28__paligemma_diffusion_droid__skel_gt.mp4",
+        "ee": "static/videos/policy_eval/6f4b9736-58ec-4adf-b2ac-40c2bab03e28__paligemma_diffusion_droid__ee.mp4",
+        "mesh": "static/videos/policy_eval/6f4b9736-58ec-4adf-b2ac-40c2bab03e28__paligemma_diffusion_droid__mesh.mp4"
+      }
+    }
+  ]
+}
