@@ -959,3 +959,18 @@ video {
 @media (max-width: 720px) {
   .pe-vids { grid-template-columns: 1fr; }
 }
+
+/* ─────────────── NEW badge ─────────────── */
+.btn-badge-new {
+  background: var(--accent-red);
+  color: #fff;
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  line-height: 1;
+  padding: 0.15em 0.45em;
+  border-radius: 999px;
+  margin-left: 0.1em;
+  transform: translateY(-0.35em);
+}

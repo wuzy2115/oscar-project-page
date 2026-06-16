@@ -35,12 +35,13 @@ export async function mountPolicyEval(root) {
 
   const intro = document.createElement("p");
   intro.className = "pe-intro";
-  intro.textContent =
+  intro.innerHTML =
     "We deploy OSCAR as a policy evaluator on RoboArena. For each of seven open-source " +
     "DROID generalist policies, we autoregressively roll out OSCAR from the recorded first " +
     "frame and the policy's action trace, then prompt GPT-5 to judge task success. The " +
     "predicted success rates track real-robot deployment, showing OSCAR can score policies " +
-    "without hardware.";
+    "without hardware. We release all OSCAR rollouts and their real-robot counterparts on " +
+    "<a href=\"https://huggingface.co/datasets/zywu2115/OSCAR_policy_rollout\" target=\"_blank\" rel=\"noopener\">Hugging Face</a>.";
   root.appendChild(intro);
 
   if (data.quant?.chart) {
